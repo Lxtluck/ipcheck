@@ -11,7 +11,7 @@ cryptography==1.9
 cssselect==1.0.1
 decorator==3.4.0
 Django==1.11.5
-ecdsa==0.13
+ecdsa==0.13.3
 enum34==1.1.6
 hyperlink==17.2.1
 idna==2.5
