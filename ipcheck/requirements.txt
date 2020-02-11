@@ -10,7 +10,7 @@ constantly==15.1.0
 cryptography==1.9
 cssselect==1.0.1
 decorator==3.4.0
-Django==1.11.5
+Django==1.11.28
 ecdsa==0.13
 enum34==1.1.6
 hyperlink==17.2.1
